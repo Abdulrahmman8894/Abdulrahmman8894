@@ -33,7 +33,7 @@
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
-[![Telegram](https://img.shields.io/badge/-@Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/HydraLivegrambot)
+[![Telegram](https://img.shields.io/badge/@MR_X_N-blue?style=flat&logo=Telegram&logoColor=white)](t.me/HydraLivegrambot)
 
 
 <a href="https://😁/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Elluminandi.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
